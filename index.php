@@ -10,7 +10,7 @@ function calculatePrices($searchStart, $searchEnd, $priceIntervals) {
 
     $dayPrices = [];
 
-    foreach ($priceIntervals as $interval) {
+    foreach ($priceIntervals as $interval) { 
         $startDate = parseDate($interval['start_date']);
         $endDate = parseDate($interval['end_date']);
         $intervalPrice = $interval['price'];
