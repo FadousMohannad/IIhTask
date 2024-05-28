@@ -11,13 +11,12 @@
 
 ## Overview
 
-1. The solutiion is a console application and the input values are set in the code same as the example given in the task
+1. The solution is a console application and the input values are set in the code same as the example given in the task
 
 ## Installation
 
 1. Clone the repository:
     
-    ```
 
 2. Ensure you have PHP installed. If not, you can download it from [php.net](https://www.php.net/downloads).
 
